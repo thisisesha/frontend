@@ -52,17 +52,7 @@ export default function Signin() {
         Signin{" "}
       </button>
         <br></br>
-        <br></br>
-          Don't have an account?{" "}
-          <br></br>
-          <Link
-            to="#"
-            className="btn btn-primary ms-2"
-            style={{ width: "100px" }}
-          >
-            {" "}
-            Sign Up{" "}
-          </Link>
+        
     </div>
   );
 }
